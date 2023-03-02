@@ -1,0 +1,24 @@
+\select@language {english}
+\contentsline {section}{\numberline {1}Introduction}{2}{section.1}
+\contentsline {section}{\numberline {2}Introduction to pAQFT}{3}{section.2}
+\contentsline {subsection}{\numberline {2.1}Basic definitions}{3}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Relation to the standard formulation of perturbative QFT}{5}{subsection.2.2}
+\contentsline {section}{\numberline {3}Analytic regularisation and minimal subtraction on curved spacetimes}{8}{section.3}
+\contentsline {subsection}{\numberline {3.1}Analytic regularistion of time--ordered products and the minimal subtraction scheme}{9}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Analytic regularisation of the Feynman propagator $H_F$ on curved spacetimes}{13}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Generalised Euler operators and principal parts of homogeneous expansions}{16}{subsection.3.3}
+\contentsline {subsubsection}{\numberline {3.3.1}The differential form of generalised Euler operators and homogeneous expansions of Feynman amplitudes}{19}{subsubsection.3.3.1}
+\contentsline {subsection}{\numberline {3.4}Properties of the minimal subtraction scheme}{22}{subsection.3.4}
+\contentsline {subsection}{\numberline {3.5}Examples}{23}{subsection.3.5}
+\contentsline {subsubsection}{\numberline {3.5.1}Computation of the renormalised fish and sunset graphs in our scheme}{24}{subsubsection.3.5.1}
+\contentsline {subsubsection}{\numberline {3.5.2}Alternative computation of the renormalised fish and sunset graphs}{25}{subsubsection.3.5.2}
+\contentsline {subsubsection}{\numberline {3.5.3}A more complicated graph}{28}{subsubsection.3.5.3}
+\contentsline {section}{\numberline {4}Explicit computations in cosmological spacetimes}{28}{section.4}
+\contentsline {subsection}{\numberline {4.1}Propagators in Fourier space}{29}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}The renormalised fish and sunset graphs in Fourier space}{30}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}Example: the two-point function for a quartic potential up to second order}{32}{subsection.4.3}
+\contentsline {subsection}{\numberline {4.4}More complicated graphs on cosmological spacetimes}{33}{subsection.4.4}
+\contentsline {section}{\numberline {5}Summary and outlook}{33}{section.5}
+\contentsline {section}{\numberline {A}Conventions and computational details}{34}{appendix.A}
+\contentsline {subsection}{\numberline {A.1}Propagators of the free Klein--Gordon field and their relations}{34}{subsection.A.1}
+\contentsline {subsection}{\numberline {A.2}Fourier transform of the logarithmic term on Minkowski spacetime}{35}{subsection.A.2}
